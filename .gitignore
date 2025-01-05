@@ -1,0 +1,10 @@
+*__pycache__*
+checkpoints/*
+tensorboard/*
+data/train/*
+data/test/*
+log/*
+*.sh
+result/*/*
+data.tar.gz
+data.tar.gz
